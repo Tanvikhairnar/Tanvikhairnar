@@ -53,7 +53,7 @@
 </div>
 
 ---
-# 📜 Certifications & Credentials
+### 📜 Certifications & Credentials
 
 A verified collection of my technical certifications and completed coursework.
 
