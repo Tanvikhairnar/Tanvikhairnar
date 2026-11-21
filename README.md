@@ -65,7 +65,7 @@ A verified collection of my technical certifications and completed coursework.
 
 
 #### 📂 Repository Structure
-* `/certificates` — High-resolution PDF copies of earned credentials.
+* `/Certificates` — High-resolution PDF copies of earned credentials.
 
 ---
 ### 📌 Featured Projects
