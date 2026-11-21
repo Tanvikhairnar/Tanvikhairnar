@@ -60,8 +60,8 @@ A verified collection of my technical certifications and completed coursework.
 | Certification | Issuer | Date | Credential ID | Links |
 | :--- | :--- | :--- | :--- | :--- |
 | **Microsoft Certified: Azure Fundamentals (AZ-900)** | Microsoft | Oct 2026 | `XXXX-XXXX` | [Verify](https://learn.microsoft.com/en-us/credentials/) \| [PDF](https://github.com/Tanvikhairnar/Certificates/blob/main/AZ-900.pdf) |
-| **HashiCorp Certified: Terraform Associate** | HashiCorp | Sep 2026 | `XXXX-XXXX` | [Verify](https://www.credly.com/) \| [PDF](./certificates/terraform.pdf) |
-| **Foundational C# with Microsoft** | freeCodeCamp / Microsoft | Aug 2026 | `XXXX-XXXX` | [Verify](https://www.freecodecamp.org/) \| [PDF](./certificates/csharp.pdf) |
+| **HashiCorp Certified: Terraform Associate** | HashiCorp | Sep 2026 | `XXXX-XXXX` | [Verify](https://www.credly.com/) \| [PDF](https://github.com/Tanvikhairnar/Certificates/blob/main/ClaudeCertifiedCertificate-Developer20261027-20-wyybj5.pdf) |
+| **Foundational C# with Microsoft** | freeCodeCamp / Microsoft | Aug 2026 | `XXXX-XXXX` | [Verify](https://www.freecodecamp.org/) \| [PDF](https://github.com/Tanvikhairnar/Certificates/blob/main/ClaudeCertifiedCertificate20261027-21-nb5388.pdf) |
 
 ---
 
