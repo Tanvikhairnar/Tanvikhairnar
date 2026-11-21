@@ -63,9 +63,8 @@ A verified collection of my technical certifications and completed coursework.
 | **Claude Certified Developer - Foundations** | Anthropic | Oct 2026 | `XXXX-XXXX` | [Verify](https://www.credly.com/) \| [PDF](https://github.com/Tanvikhairnar/Certificates/blob/main/ClaudeCertifiedCertificate-Developer20261027-20-wyybj5.pdf) |
 | **Claude Certified Associate - Foundations** | Anthropic | Sep 2026 | `XXXX-XXXX` | [Verify](https://www.freecodecamp.org/) \| [PDF](https://github.com/Tanvikhairnar/Certificates/blob/main/ClaudeCertifiedCertificate20261027-21-nb5388.pdf) |
 
----
 
-### 📂 Repository Structure
+#### 📂 Repository Structure
 * `/certificates` — High-resolution PDF copies of earned credentials.
 
 ---
